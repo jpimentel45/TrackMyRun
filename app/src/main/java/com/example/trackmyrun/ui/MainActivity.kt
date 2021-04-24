@@ -1,8 +1,9 @@
-package com.example.trackmyrun
+package com.example.trackmyrun.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.example.trackmyrun.R
 import com.example.trackmyrun.db.RunDao
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
