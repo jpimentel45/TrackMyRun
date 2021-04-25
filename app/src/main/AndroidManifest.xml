@@ -17,7 +17,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrackMyRun">
         <activity android:name=".ui.MainActivity"
-            android:launchMode="singleTask">
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

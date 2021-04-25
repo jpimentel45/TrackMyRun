@@ -6,7 +6,8 @@
         <item name="colorSecondary">@color/md_blue_500</item>
         <item name="android:colorBackground">@color/md_blue_700</item>
         <item name="colorError">@color/errorColor</item>
-
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="windowNoTitle">true</item>-->
         <!-- New MaterialComponents attributes. -->
         <item name="colorPrimaryVariant">@android:color/white</item>
         <item name="colorSecondaryVariant">@color/md_blue_400</item>
